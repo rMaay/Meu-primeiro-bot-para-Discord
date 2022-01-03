@@ -10,4 +10,4 @@ class MyClient(discord.Client):
             await message.channel.send(f'{message.author.name} You are amazing!')
 
 client = MyClient()
-client.run('OTI3NjQyNjgxODkzNjAxMjkw.YdNMkg.sClQ_xyPr42ZkHI2_ohRocuAzHU')
+client.run('MEU_TOKEN')
